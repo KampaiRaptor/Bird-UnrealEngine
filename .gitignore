@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore Marketplace Packs
+Content/ProceduralNaturePack/*
+Content/EF_Grounds/*
+Content/Megascans/*
+Content/MSPresets/*
